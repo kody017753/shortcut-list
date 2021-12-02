@@ -10,9 +10,9 @@
 ## vs code編
 - 選択範囲をコメント化・・・ctrl + /
 
-## Git Bash
+## Git Bash編
 - ペースト・・・「shift+insert」
-- コピー・・・「Ctrl+insert」（うまくいかない）
+- コピー・・・「Ctrl+insert」
 
 ## その他
 
